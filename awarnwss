@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>Awareness</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f7f7f7; text-align:center; padding:40px; }
+    .box { background:#fff; border-radius:12px; padding:30px; max-width:600px; margin:auto; box-shadow:0 10px 25px rgba(0,0,0,0.1);}
+    h1 { color:#2c7be5; }
+    p { line-height:1.7; }
+    .tip { background:#eef6ff; padding:15px; border-radius:8px; margin-top:20px;}
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>you have been hacked</h1>
+    <p>you should have checked the sender befor clicking the link </p>
+    </div>
+  </div>
+</body>
+</html>
